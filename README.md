@@ -1,7 +1,3 @@
-# A demo project
+# What are you looking for
 
-Yay
-
-## Website Xd
-
-1) index.html
+You won't find anything here. LOL
